@@ -12,33 +12,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## Hi, I’m Prithivi 👋
 
-I’m a final-year Computer Science student passionate about building real-world software 💻.
-My journey from simple programs to production-ready apps led me to focus on AI 🤖, backend systems ⚙️, automation 🔄, and security 🔐.
-I enjoy creating scalable and reliable solutions 🚀.
-I aim to build systems that are maintainable and practical.
-I focus on solving real problems and delivering value 🌍.
+I'm a final-year Computer Science student passionate about building real-world software 💻. My journey started with simple programs and gradually evolved into building production-ready applications, leading me to focus on AI 🤖, backend systems ⚙️, automation 🔄, security 🔐, and scalable deployments 🚀. I enjoy creating solutions that are practical, maintainable, and designed to solve real problems while delivering value to users 🌍.
 
-🏆 Achievements
-Participated in just 3 tech competitions — and proud to have won all three!
-🥇 1st Place – MEPCO Hackathon
-🥈 3rd Place – Trinity Hack
-🎓 Also secured Top 5 Finalist in Smart India Hackathon 2025 (Roam-io)
-🎖️ NPTEL Silver + Elite in The Joy of Computing using Python
+## 🏆 Achievements
 
-🧩 Projects that Define My Journey
-📈 FGrow – a CRM product focused on practical business workflows
-🏫 SCool – a school ERP platform built for real school operations
-🤖 AI Discord Agent – context-aware chatbot for community servers
-📚 RAG Student Assistant Bot – answers textbook queries using RAG architecture
-⚙️ Mini Task Assistant – modular AI agent for executing smart tasks
-💬 Instagram DM Automation – GPT-powered, memory-aware message
+I’ve participated in just **3** tech competitions—and I'm proud to have earned a place in all of them.
 
-💼 Internships & Experience
- ✨Temprl Business Pvt Ltd – Working on automation & microservice tools
- 💻Google Developer Group: Tech Talk – Delivered session on RAG & Agentic AI
- 💼 Cybernaut LLP – Hands-on training in real-world dev environments
+- 🥇 **1st Place** – MEPCO Hackathon
+- 🥉 **3rd Place** – Trinity Hack
+- 💻 Selected for the final round of **Odoo x SNS** Hackathon 2026.
+- 🎯 **Top 5 Finalist** – Smart India Hackathon 2025 *(Roam-io)*
+- 🎓 **NPTEL Silver + Elite** – *The Joy of Computing using Python*
 
-I’m always interested in building meaningful products with people who care about clean execution and long-term value 🤝. My goal is simple: keep learning 📚, keep building 🛠️, and keep shipping software that actually helps 🌟
+## 🚀 Projects That Define My Journey
+
+Throughout my learning journey, I've built products ranging from AI-powered assistants to full-stack enterprise applications.
+
+- 📈 **FGrow** – CRM product focused on practical business workflows
+- 🏫 **SCool** – School ERP platform built for real school operations
+- 🤖 **AI Discord Agent** – Context-aware chatbot for community servers
+- 📚 **RAG Student Assistant Bot** – Answers textbook queries using RAG architecture
+- ⚙️ **Mini Task Assistant** – Modular AI agent for executing smart tasks
+- 💬 **Instagram DM Automation** – GPT-powered, memory-aware messaging workflow
+
+## 💼 Experience
+
+- ✨ **Temprl Business Pvt Ltd** – Working on automation & microservice tools
+- 🎤 **Google Developer Group** – Delivered a Tech Talk on RAG & Agentic AI
+- 💻 **Cybernaut LLP** – Hands-on training in real-world development environments
+
+---
+
+I enjoy collaborating with people who care about building meaningful products and writing clean, scalable software 🤝. My goal is simple: **keep learning 📚, keep building 🛠️, and keep shipping software that makes a real impact 🌟.**

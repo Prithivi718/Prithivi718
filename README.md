@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I’m Prithivi 👋
 
 I'm a final-year Computer Science student passionate about building real-world software 💻. My journey started with simple programs and gradually evolved into building production-ready applications, leading me to focus on AI 🤖, backend systems ⚙️, automation 🔄, security 🔐, and scalable deployments 🚀. I enjoy creating solutions that are practical, maintainable, and designed to solve real problems while delivering value to users 🌍.
-https://drive.google.com/file/d/1Cte40vOVq-yCo4arWIBBKvgyNVHkJMky/view?usp=drivesdk
+[My Resume](https://drive.google.com/file/d/1Cte40vOVq-yCo4arWIBBKvgyNVHkJMky/view?usp=drivesdk)
 
 ## 🏆 Achievements
 
